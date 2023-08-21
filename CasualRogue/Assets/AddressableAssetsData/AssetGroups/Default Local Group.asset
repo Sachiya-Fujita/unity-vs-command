@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 739afe9e9d4b448769f85aa3fc74a5cb
+  m_SerializeEntries:
+  - m_GUID: 4655a746743594a6bb8c3834bad25c0e
+    m_Address: Assets/Project/AddressableAssets/ExternalAssets/OutGame/Title/Image/img_title_bg_001.jpeg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 91fcea7b0d1ae4a4f890ba9e64e20f24, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b99cac08b759449cd93f9807e391d75b, type: 2}
+    - {fileID: 11400000, guid: d1ce7680658914d1a8b6818065aab437, type: 2}
