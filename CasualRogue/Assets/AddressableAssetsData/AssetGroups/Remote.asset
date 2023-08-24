@@ -10,13 +10,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: External
+  m_Name: Remote
   m_EditorClassIdentifier: 
-  m_GroupName: Packed Assets
+  m_GroupName: Remote
   m_Data:
     m_SerializedData: []
   m_GUID: 2227b18cfe5194cd88ea77a2415536af
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 4655a746743594a6bb8c3834bad25c0e
+    m_Address: Assets/Project/AddressableAssets/ExternalAssets/OutGame/Title/Image/img_title_bg_001.jpeg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Title
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 91fcea7b0d1ae4a4f890ba9e64e20f24, type: 2}
   m_SchemaSet:

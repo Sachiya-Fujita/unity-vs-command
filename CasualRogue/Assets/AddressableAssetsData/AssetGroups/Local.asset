@@ -10,16 +10,21 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: Default Local Group
+  m_Name: Local
   m_EditorClassIdentifier: 
-  m_GroupName: Default Local Group
+  m_GroupName: Local
   m_Data:
     m_SerializedData: []
-  m_GUID: 739afe9e9d4b448769f85aa3fc74a5cb
-  m_SerializeEntries: []
+  m_GUID: b5ef6c4a9f7d8441e8c222bc5f1cd520
+  m_SerializeEntries:
+  - m_GUID: 98af2c7b27a7b4dc8bdbcb96480d9c02
+    m_Address: Assets/Project/AddressableAssets/InternalAssets/OutGame/Title/Image/img_title_bg_internal_001.jpeg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Title
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 91fcea7b0d1ae4a4f890ba9e64e20f24, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: b99cac08b759449cd93f9807e391d75b, type: 2}
-    - {fileID: 11400000, guid: d1ce7680658914d1a8b6818065aab437, type: 2}
+    - {fileID: 11400000, guid: 4cdf3ab390e6f420a88e22951709a4fb, type: 2}
+    - {fileID: 11400000, guid: b252738e220154c69b320d7f20e5fd39, type: 2}
