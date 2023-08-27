@@ -16,7 +16,11 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 739afe9e9d4b448769f85aa3fc74a5cb
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 26a3fdd7d0a5c4e35a470bfc1ed8d00d
+    m_Address: Assets/Project/AddressableAssets/ExternalAssets/InGame/Character/img_chara_sample_001.jpeg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 91fcea7b0d1ae4a4f890ba9e64e20f24, type: 2}
   m_SchemaSet:
