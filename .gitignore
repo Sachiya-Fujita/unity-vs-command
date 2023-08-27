@@ -73,3 +73,5 @@ crashlytics-build.properties
 CasualRogue/Library/
 CasualRogue/Temp/
 CasualRogue/Logs/
+.DS_Store
+CasualRogue/.vscode
