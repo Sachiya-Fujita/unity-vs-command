@@ -1,7 +1,7 @@
 using System.Diagnostics;
 using Debug = UnityEngine.Debug;
 
-namespace CasualRogue.System.Log
+namespace CasualRogue
 {
     public static class CustomLogger
     { 
