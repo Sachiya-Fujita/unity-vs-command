@@ -75,3 +75,6 @@ CasualRogue/Temp/
 CasualRogue/Logs/
 .DS_Store
 CasualRogue/.vscode
+CasualRogue/.idea
+CasualRogue/obj/Debug
+CasualRogue/UserSettings
